@@ -1,4 +1,4 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm an aspiring 3rd year PhD Candidate in the Industrial and Systems Engineering Program at the University of Michigan - Dearborn. My area of research are Intelligent systems for transportation safety, human cognitive modelling, behavioral data analytics, human-centered AI and applied machine learning.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
